@@ -53,7 +53,13 @@
 
 
 ## Output:
+![Screenshot 2023-12-16 141335](https://github.com/easwari21/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/131534979/c2956347-636b-4b72-b621-47bc2467c67e)
 
+
+![Screenshot 2023-12-16 141936](https://github.com/easwari21/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/131534979/cd57a0ef-1e8c-4b1c-a622-533faa950532)
+
+
+![Screenshot 2023-12-16 141559](https://github.com/easwari21/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/131534979/ef5f4fa1-c3dd-498f-b50b-2fceab93ec71)
 
 ### Name:Easwari M
 ### Register Number:23006280
